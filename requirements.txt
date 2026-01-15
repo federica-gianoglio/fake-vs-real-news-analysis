@@ -1,0 +1,10 @@
+﻿pandas
+numpy
+matplotlib
+seaborn
+nltk
+swifter
+wordcloud
+scikit-learn
+scipy
+statsmodels
